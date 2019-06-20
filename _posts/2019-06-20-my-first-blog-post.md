@@ -1,5 +1,5 @@
 ---
-title: all about food
+title: "all about food"
 date: 2019-06-20
 ---
 
